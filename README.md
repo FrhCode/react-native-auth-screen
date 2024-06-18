@@ -20,12 +20,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ### Boarding
 
-![image info](./assets/images/index.jpeg)
+<img src="./assets/images/index.jpeg" alt="drawing" style="width:150px;"/>
 
 ### Login
 
-![image info](./assets/images/login.jpeg)
+<img src="./assets/images/login.jpeg" alt="drawing" style="width:150px;"/>
 
 ### Register
 
-![image info](./assets/images/register.jpeg)
+<img src="./assets/images/register.jpeg" alt="drawing" style="width:150px;"/>
